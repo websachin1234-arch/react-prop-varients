@@ -3,3 +3,4 @@
 @theme {
   --color-badge: #ffffff0f;
 }
+@custom-variant dark ([theme="dark"] &)
